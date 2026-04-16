@@ -80,7 +80,8 @@ This project analyzes sales data using Excel to derive business insights and eva
 
 ## 📷 Screenshots
 
-(Add screenshots of pivot tables and formatted data)
+![sales vs category](images/sales vs category)
+
 
 ---
 
