@@ -87,7 +87,14 @@ This project analyzes sales data using Excel to derive business insights and eva
 
 
 ---
+## 📈 Recommendations
 
+- Focus on high-performing regions to maximize revenue
+- Improve sales strategies in low-performing regions
+- Promote high-demand product categories
+- Reward top-performing salespersons to boost motivation
+
+---
 ## 🚀 Conclusion
 
 This project demonstrates strong Excel skills in data analysis, reporting, and visualization for business decision-making.
