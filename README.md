@@ -79,8 +79,7 @@ This project analyzes sales data using Excel to derive business insights and eva
 ---
 
 ## 📷 Screenshots
-
-![sales vs category](images/sales vs category)
+![sales vs region](images/sales vs region.png)
 
 
 ---
